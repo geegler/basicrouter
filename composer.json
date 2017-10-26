@@ -3,7 +3,7 @@
   "type": "library",
   "description": "Simple router forked from simonham with simple modifications",
   "keywords": ["php", "routing"],
-  "homepage": "https://github.com/Lorenzo-D-Alipio/basicrouter",
+  "homepage": "https://github.com/Bryan-D-Lee/basicrouter",
   "license": "MIT",
 
   "require": {
